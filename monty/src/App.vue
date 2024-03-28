@@ -6,11 +6,11 @@
 
 <script>
 import GiftDisplay from './components/Gift.vue'
+
 export default {
     name:'App',
     components:{GiftDisplay}
 }
-
 </script>
 
 <style>
