@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>Problema de Monty hall</h1>
+    <GiftDisplay />
   </div>
 </template>
 

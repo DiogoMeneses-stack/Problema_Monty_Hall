@@ -10,9 +10,9 @@
 <script>
 export default {
     name: 'Gift'
-
 }
 </script>
+
 <style>
 .gift {
     position: relative;
